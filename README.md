@@ -13,7 +13,7 @@
 
 以下のリンクから辞書データファイル（TSV形式）をダウンロードしてください。
 
-* [**`okinawa_gikai_names.txt` をダウンロード**](https://github.com/koj911/okinawaken-gikai-dictionary/raw/main/data/okinawa_gikai_dictionary.txt)
+* [**`okinawa_gikai_names.txt` をダウンロード**](https://raw.githubusercontent.com/koj911/okinawaken-gikai-dictionary/refs/heads/main/google-ime-dictionary.txt)
 
 ### 2. Google 日本語入力でのインポート
 
